@@ -1,7 +1,4 @@
-Voici un exemple de **README professionnel** en anglais pour une application Java de gestion des tâches.
-Je l’ai rédigé dans un format clair et structuré, comme on le ferait dans un projet GitHub bien présenté.
 
----
 
 # 🗂️ Task Management Application
 
@@ -27,8 +24,6 @@ It provides an intuitive interface for creating, updating, deleting, and marking
 
 * **Programming Language:** Java 17+
 * **Framework:** Java Swing / JavaFX (for UI) or Console-based interface
-* **Database:** MySQL / PostgreSQL / H2 (optional)
-* **Build Tool:** Maven or Gradle
 * **Version Control:** Git & GitHub
 
 ---
@@ -105,13 +100,3 @@ mvn test
 Contributions are welcome!
 Please fork this repository and submit a pull request with your proposed changes.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-Si vous voulez, je peux aussi vous préparer **la version PDF prête à télécharger** avec une mise en page professionnelle pour que vous puissiez l’ajouter directement à votre projet.
-Voulez-vous que je vous prépare ce PDF ?
